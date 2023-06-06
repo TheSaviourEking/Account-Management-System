@@ -1,6 +1,6 @@
 //TheSaviourEking - programming made simple
 
-#include "main.h"
+#include "include/main.h"
 
 // #include <windows.h>
 
